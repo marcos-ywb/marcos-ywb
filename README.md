@@ -69,13 +69,13 @@ Atualmente focado em aprender **Desenvolvimento Web Full Stack** e **Programaç�
 <h2 align="left">📬 Contate-me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcos-vinicius-mello-495a6223a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
-  <a href="https://www.instagram.com/seu-instagram/" target="_blank">
+  <a href="https://www.instagram.com/marcos_mello15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
-  <a href="mailto:seu@email.com" target="_blank">
+  <a href="mailto:marcosmello.ywb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
 </div>
