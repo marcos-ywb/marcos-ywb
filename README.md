@@ -82,10 +82,4 @@ Atualmente focado em aprender **Desenvolvimento Web Full Stack** e **Programaç�
 
 ---
 
-<h2 align="left">🐍 GitHub Snake Contribution</h2>
-
-<img src="https://raw.githubusercontent.com/marcos-ywb/marcos-ywb/output/snake.svg" alt="Snake animation" />
-
----
-
 <h2 align="left">🙏 Obrigado por visitar meu perfil!</h2>
