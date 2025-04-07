@@ -2,7 +2,7 @@
 
 <p align="left">
 Sou estudante e entusiasta de tecnologia, apaixonado por desenvolvimento de software e segurança da informação.  
-Atualmente focado em aprender **Desenvolvimento Web Full Stack** e **Programação Orientada a Objetos**, com o objetivo de iniciar minha carreira profissional na área de tecnologia.
+Atualmente focado em aprender Desenvolvimento Web Full Stack e Programação Orientada a Objetos, com o objetivo de iniciar minha carreira profissional na área de tecnologia.
 </p>
 
 ---
